@@ -4,7 +4,7 @@ import { Card } from 'antd';
 const MyCard = () => {
   return (
   <>
-  <h1>Card</h1>
+  <h1>My Card</h1>
   <Card title="Card title" hoverable>
       <p>Card content</p></Card>
 

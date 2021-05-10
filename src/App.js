@@ -1,10 +1,11 @@
 import MyCard from "./components/MyCard";
+import TestCard from "./components/TestCard";
 
 function App() {
   return (
     <div>
       <MyCard/>
-      <MyCard/>
+      <TestCard/>
     </div>
   );
 }
